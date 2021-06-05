@@ -1,0 +1,16 @@
+body {
+    background-image: url(image/pogchamp-twitch-own3d.png);
+    background-size: 5em;
+}
+#button1 {
+    width: 69px;
+    height: 69px;
+    line-height: 1px;
+    position: absolute;
+    left: 45%;
+    right: 50%;
+    bottom: 50%;
+    background-image: url(image/awwwyw.jpg);
+    background-size: 7em;
+    background-repeat: no-repeat;
+}
